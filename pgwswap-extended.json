@@ -1,0 +1,33 @@
+{
+    "name": "PGDSwap",
+    "timestamp": "2023-01-13T16:02:55.414Z",
+    "version": {
+      "major": 2,
+      "minor": 16,
+      "patch": 118
+    },
+    "logoURI": "http://www.pgdswap.space/pgwText/logo.png",
+    "keywords": [
+      "pgdswap",
+      "extended"
+    ],
+    "tokens": [
+      {
+          "chainId": 56,
+          "address": "0x55d398326f99059ff775485246999027b3197955",
+          "name": "Tether USD",
+          "symbol": "USDT",
+          "decimals": 18,
+          "logoURI": "http://www.pgdswap.space/pgwText/coin/USDT.png"
+      },
+      {
+          "chainId": 56,
+          "address": "0x0Bc5772C76d274f2d387592b832dd3daE2AeEdF5",
+          "name": "GNA",
+          "symbol": "GNA",
+          "decimals": 18,
+          "logoURI": "http://www.pgdswap.space/pgwText/coin/GNA.png"
+      }
+    ]
+    
+  }
