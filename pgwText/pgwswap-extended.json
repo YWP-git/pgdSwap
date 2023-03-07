@@ -6,7 +6,7 @@
       "minor": 16,
       "patch": 118
     },
-    "logoURI": "http://www.pgdswap.space/pgwText/logo.png",
+    "logoURI": "https://www.pgdswap.space/pgwText/logo.png",
     "keywords": [
       "pgdswap",
       "extended"
@@ -18,7 +18,7 @@
           "name": "Tether USD",
           "symbol": "USDT",
           "decimals": 18,
-          "logoURI": "http://www.pgdswap.space/pgwText/coin/USDT.png"
+          "logoURI": "https://www.pgdswap.space/pgwText/coin/USDT.png"
       },
       {
           "chainId": 56,
@@ -26,7 +26,7 @@
           "name": "GNA",
           "symbol": "GNA",
           "decimals": 18,
-          "logoURI": "http://www.pgdswap.space/pgwText/coin/GNA.png"
+          "logoURI": "https://www.pgdswap.space/pgwText/coin/GNA.png"
       }
     ]
     
